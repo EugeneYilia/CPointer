@@ -1,0 +1,3 @@
+C:/Users/liuyi/CLionProjects/TestPointer2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liuyi/CLionProjects/TestPointer2/cmake-build-debug/CMakeFiles/TestPointer2.dir
+C:/Users/liuyi/CLionProjects/TestPointer2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
